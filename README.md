@@ -9,7 +9,7 @@
 <p>
 	Otomatik kapı'nin şifresi iki yolla alınabiliyor.<br>
 	Telefondan Bluetooth Modül'ü ile veya keypad "den <br>
-	 girilen şifre 1cd de görülüyor.
+	 girilen şifre LCD de görülüyor.
 	<br>
 	 Şifre doğru ise kapı açılıp kapaniyor.<br> Kapanma sırasında lazer aktif Hareket var ise LDR sensörün yardımıyla  kapı tekrar açılıyor. 
 </p>
