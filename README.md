@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>OTOMATİK KAPI SİSTEMİ PROJESİ</title>
+
 </head>
 <body>
 <h1>OTOMATİK KAPI SİSTEMİ PROJESİ</h1>
